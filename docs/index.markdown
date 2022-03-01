@@ -2,8 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: default
 ---
+
+<style>
+    .hide{
+    display: none;
+}
+</style>
 
 # Book Search Guide: Pounce/Pounce+ and UofM Campuses Databases
 This guide will first layout the key points of using an advanced search to find materials within our database, and then provide a template of sample
@@ -12,19 +18,19 @@ questions and how you would translate them into search conditions.
 ## Advanced Search: Overview of Search Filters  
 ### Common Search Categories  
 The first box contains categories which narrow down the fields in which given keywords will be looked for.  
-- **Any field**: The default search, this works like a broad keyword search that will look for any isntance of the keyword within any of the other categories.
+- **Any field**: The default search, this works like a broad keyword search that will look for any instance of the keyword within any of the other categories.
 - **Title**: Look for books by their title/words contained within the title.
 - **Author/creator**: Look for books by the author's name.
 - **Subject**: Look for books by associated subject.
 - **ISBN**: Look for a book by its International Standard Book Number.
 - **ISSN**: Search for a book by its International Standard Serial Number.
-- **Creation Date**: Serach for books created on the given date.  
+- **Creation Date**: Search for books created on the given date.  
 
 ### Search Parameters  
 The second box contains search parameters. Parameters will decide how keywords will be looked for within a given category.  
-- **Contains**: How you mihgt normally think of a keyword search, this parameter searches for any instance of the keywords. This will be the default, which you will use most of the time.
+- **Contains**: How you might normally think of a keyword search, this parameter searches for any instance of the keywords. This will be the default, which you will use most of the time.
 - **Is (exact)**: This parameter will only find things that exactly match the given keywords within a selected category.
-- **Starts with**: This paremeter will find anything that starts with the given keywords within a selected category.  
+- **Starts with**: This parameter will find anything that starts with the given keywords within a selected category.  
 
 ## Translating Questions Into Search Parameters  
 Following are example templates of questions you might hear from a patron and how you should connect them to a book search.  
@@ -39,16 +45,10 @@ Here you will search using the Subject category.
 A simple Author/creator search.  
 
 ### "I can't remember the title, but it was about ________."  
-Here you might think to do a general keyword search, but it would be more helpful to serach by subject and keyword both.  
+Here you might think to do a general keyword search, but it would be more helpful to search by subject and keyword both.  
 
 ## Search Practice
 Now that you've seen how the advanced search is set up and some common types of searches, try finding the books below through advanced search for Pounce/Pounce+ and UofM Campuses using different categories and parameters. When finding the books, take note of things such as how many results appear, whether the book appears on one database but not another, and how more specific keywords narrows down searches.
-
-<style>
-    .hide{
-    display: none;
-}
-</style>
 
 <div id='start'>Searching by author J.R.R Tolkien, find the first book in the Lord of the Rings trilogy, The Fellowship of the Ring.</div>
 <button onclick="myFunction('next1')">Next Book</button>
