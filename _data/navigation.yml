@@ -1,6 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    link: /
+  - title: "Quiz"
+    link: /quiz/
   - title: "About"
-    url: /about/
+    link: /about/
