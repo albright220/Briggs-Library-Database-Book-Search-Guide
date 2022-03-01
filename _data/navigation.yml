@@ -1,8 +1,7 @@
 # main links
-main:
-  - title: "Home"
-    url: index.markdown
-  - title: "Quiz"
-    url: quiz.md
-  - title: "About"
-    url: about.markdown
+ - title: "Home"
+   link: index.markdown
+ - title: "Quiz"
+   link: /quiz
+ - title: "About"
+   link: about
