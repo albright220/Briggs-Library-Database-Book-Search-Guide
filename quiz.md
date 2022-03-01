@@ -114,4 +114,4 @@ title: 'Book Search Quiz: Using Pounce and UofM Databases'
 	      }
       }
   generateQuiz(myQuestions, quizContainer, resultsContainer, submitButton);
-</script
+		    </script>
