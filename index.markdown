@@ -48,10 +48,10 @@ Here you might think to do a general keyword search, but it would be more helpfu
 Now that you've seen how the advanced search is set up and some common types of searches, try finding the books below through advanced search for Pounce/Pounce+ and UofM Campuses using different categories and parameters. When finding the books, take note of things such as how many results appear, whether the book appears on one database but not another, and how more specific keywords narrows down searches.
 
 <div id='start'>Searching by author J.R.R Tolkien, find the first book in the Lord of the Rings trilogy, The Fellowship of the Ring.</div>
-<button onclick="myFunction('next1')">Next Book</button>
+<button onclick="show('next1')">Next Book</button>
 <div id='next1' class="hide">
     <br />Using a keyword search with at most two keywords, find the book "China and the West: Music, Representation, and Reception".<br />
-    <button onclick="myFunction('next2')">Next Book</button>
+    <button onclick="show('next2')">Next Book</button>
     <div id='next2' class="hide">
         <br />Find a book related to rhetoric that was created in 1978 and has been published by the Cornell University Press.
     </div>
@@ -60,7 +60,7 @@ Now that you've seen how the advanced search is set up and some common types of 
 ## Next try out the [Book Search Quiz](quiz.md)
 
 <script>
-function myFunction(id) {
+function show(id) {
     var myDiv = document.getElementById(id);
     myDiv.classList.toggle("hide");
 }
