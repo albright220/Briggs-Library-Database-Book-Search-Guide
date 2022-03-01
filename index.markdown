@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
----
-
 <style>
     .hide{
     display: none;
@@ -59,6 +52,8 @@ Now that you've seen how the advanced search is set up and some common types of 
         <br />Find a book related to rhetoric that was created in 1978 and has been published by the Cornell University Press.
     </div>
 </div>
+
+## Next try out the [Book Search Quiz](quiz.md)
 
 <script>
 function myFunction(id) {
