@@ -1,7 +1,7 @@
 ---
 title: 'Book Search Guide: Pounce/Pounce+ and UofM Campuses Databases'
 ---
-<a class="navbar-item" href="/quiz.md>
+<a class="navbar-item" href="/quiz.md">
   Quiz
 </a>
 
