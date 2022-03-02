@@ -2,29 +2,42 @@
 layout: page
 title: 'Book Search Quiz: Using Pounce and UofM Databases'
 ---
-## For this quiz, each question will ask you if a material is availabe. You will use the advanced search in Pounce/Pounce+ as well as the UofM campus databases to find the material and respond with: "Sorry, we don't have that!", "It looks like they have that at another campus", or "Yes, we have that!".
+## For this quiz, each question will ask you if a material is availabe. You will use the advanced search in Pounce/Pounce+ as well as the UofM campus databases to find the material and respond with: "Sorry, we don't have that!", "It looks like they have that at another campus", or "Yes, we have that!". If the requested material is a physical copy that is held at Briggs, also think of where it would be and how you would guide them to it.
 
 <div id="quiz"></div>
 <button id="submit">Get Results</button>
 <div id="results"></div>
 
+<style>
+	#quiz {
+	}
+	
+	#submit {
+	}
+	
+	#results {
+	}
+	
+	@import "main";
+</style>
+
 <script>
   var myQuestions = [
 	  {
-		  question: "What is 10/2?",
-		  answers: {
-			  a: '3',
-		  	b: '5',
-		  	c: '115'
+		question: "PLACEHOLDER_TEXT",
+		answers: {
+			a: "Yes, we have that!",
+		  	b: "Sorry, we don't have that!",
+		  	c: "It looks like they have that at another campus"
 	  	},
 	  	correctAnswer: 'b'
   	},
   	{
-	  	question: "What is 30/3?",
+	  	question: "PLACEHOLDER_TEXT",
 	  	answers: {
-	  		a: '3',
-	  		b: '5',
-	  		c: '10'
+	  		a: "Yes, we have that!",
+		  	b: "Sorry, we don't have that!",
+		  	c: "It looks like they have that at another campus"
 	  	},
   		correctAnswer: 'c'
 	  }
