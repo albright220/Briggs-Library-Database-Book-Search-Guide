@@ -60,7 +60,7 @@ Now that you've seen how the advanced search is set up and some common types of 
     </div>
 </div>
 
-<h2> Next try out the <a href="/quiz.md"> Book Search Quiz </a></h2>
+## Next try out the [Book Search Quiz](quiz.md)
 
 <script>
 function show(id) {
