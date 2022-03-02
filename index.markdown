@@ -38,13 +38,13 @@ Following are example templates of questions you might hear from a patron and ho
 Here you will search using both tile and author name. Most of the time, book titles will be different from how they are normally called, so it is easier
 when you aren't certain you have the exact title to use the default **contains** search parameter.  
 
-### "Do you have a book about ______?"  
+### "Do you have a book about this?"  
 Here you will search using the Subject category.  
 
-### "Do you have any books by ______?"  
+### "Do you have any books by this author?"  
 A simple Author/creator search.  
 
-### "I can't remember the title, but it was about ______."  
+### "I can't remember the title, but it was about this..."  
 Here you might think to do a general keyword search, but it would be more helpful to search by subject and keyword both.  
 
 ## Search Practice
