@@ -2,7 +2,7 @@
 layout: page
 title: 'Book Search Guide: Pounce/Pounce+ and UofM Campuses Databases'
 toc: true
-title: Contents
+toc_title: Contents
 ---
 
 <style>
