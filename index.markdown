@@ -34,17 +34,17 @@ The second box contains search parameters. Parameters will decide how keywords w
 
 ## Translating Questions Into Search Parameters  
 Following are example templates of questions you might hear from a patron and how you should connect them to a book search.  
-<h3> "Do you have ________ by ________?" </h3>
+### "Do you have this book by this author?"  
 Here you will search using both tile and author name. Most of the time, book titles will be different from how they are normally called, so it is easier
 when you aren't certain you have the exact title to use the default **contains** search parameter.  
 
-<h3> "Do you have a book about ________?" </h3>
+### "Do you have a book about ______?"  
 Here you will search using the Subject category.  
 
-<h3> "Do you have any books by ________?" </h3>
+### "Do you have any books by ______?"  
 A simple Author/creator search.  
 
-<h3> "I can't remember the title, but it was about ________."  </h3>
+### "I can't remember the title, but it was about ______."  
 Here you might think to do a general keyword search, but it would be more helpful to search by subject and keyword both.  
 
 ## Search Practice
