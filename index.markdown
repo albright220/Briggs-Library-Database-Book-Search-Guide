@@ -1,5 +1,8 @@
 ---
+layout: page
 title: 'Book Search Guide: Pounce/Pounce+ and UofM Campuses Databases'
+menubar_toc: true
+toc_title: Contents
 ---
 
 <style>
