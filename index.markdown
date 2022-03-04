@@ -12,7 +12,7 @@ toc_title: Contents
 </style>
 
 # Searching for Materials in Pounce and in Cross-Campus Databases
-This guide will first layout the key points of using an advanced search to find materials within our database, and then provide a template of sample
+This guide will first layout the key points of using an advanced search to find materials within [our database](https://primo.lib.umn.edu/primo-explore/search?vid=MORRIS&lang=en_US&sortby=rank&tab=default_tab), and then provide a template of sample
 questions and how you would translate them into search conditions.  
 
 ## Advanced Search: Overview of Search Filters  
