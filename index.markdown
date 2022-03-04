@@ -17,7 +17,7 @@ questions and how you would translate them into search conditions.
 
 ## Advanced Search: Overview of Search Filters  
 ### Common Search Categories  
-The first box contains categories which narrow down the fields in which given keywords will be looked for.  
+In the [advanced search tab](https://primo.lib.umn.edu/primo-explore/search?vid=MORRIS&lang=en_US&sortby=rank&tab=default_tab&mode=advanced), the first box contains categories which narrow down the fields in which given keywords will be looked for.  
 - **Any field**: The default search, this works like a broad keyword search that will look for any instance of the keyword within any of the other categories.
 - **Title**: Look for books by their title/words contained within the title.
 - **Author/creator**: Look for books by the author's name.
@@ -31,6 +31,12 @@ The second box contains search parameters. Parameters will decide how keywords w
 - **Contains**: How you might normally think of a keyword search, this parameter searches for any instance of the keywords. This will be the default, which you will use most of the time.
 - **Is (exact)**: This parameter will only find things that exactly match the given keywords within a selected category.
 - **Starts with**: This parameter will find anything that starts with the given keywords within a selected category.  
+
+### Collections
+In the top right of the advanced search tab, you will see a dropdown box labeled **Collection**. This allows you to choose the type of materials you will be looking for, almost like different categories.
+
+For example, choosing the DVDs collection will give you back results for, you guessed it, DVDs.
+
 
 ## Translating Questions Into Search Parameters  
 Following are example templates of questions you might hear from a patron and how you should connect them to a book search.  
