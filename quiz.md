@@ -3,11 +3,66 @@ layout: page
 title: 'Book Search Quiz: Using Pounce and UofM Databases'
 ---
 
-### For this quiz, each question will ask you if a material is availabe. You will use the advanced search in Pounce/Pounce+ as well as the UofM campus databases to find the material and respond with: "Sorry, we don't have that!", "It looks like they have that at another campus", or "Yes, we have that!". If the requested material is a physical copy that is held at Briggs, also think of where it would be and how you would guide them to it.
+<style>
+	@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-<div id="quiz"></div>
-<button id="submit">Get Results</button>
-<div id="results"></div>
+	html {
+    	display: table;
+    	margin: auto;
+}
+
+	body {
+		justify-content: center;
+		display: table-cell;
+    	vertical-align: middle;
+	}
+
+	input {
+		margin-right: 5px;
+	}
+
+	.allContainer {
+		margin: 0 auto;
+		font-size: 16px;
+		padding: 20px;
+	}
+	
+	.text {
+		font-family: 'Montserrat', sans-serif;
+	}
+
+	.questions {
+
+	}
+
+	.buttonContainer {
+		text-align: center;
+	}
+
+	#quiz {
+
+	}
+
+	#submit {
+		color: white;
+		padding: 10px;
+		background: #7a0019;
+		border-radius: 30px;
+	}
+
+	#results {
+
+	}
+
+</style>
+
+<div class="allContainer">
+	<div class="questions text" id="quiz"></div>
+	<div class=buttonContainer>
+		<button class="text" id="submit">Get Results</button>
+	</div>
+	<div class="text" id="results"></div>
+</div>
 
 <script>
   var myQuestions = [
