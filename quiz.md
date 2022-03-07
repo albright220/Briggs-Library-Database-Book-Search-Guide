@@ -6,8 +6,15 @@ title: 'Book Search Quiz: Using Pounce and UofM Databases'
 <style>
 	@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
+	html {
+    	display: table;
+    	margin: auto;
+}
+
 	body {
 		justify-content: center;
+		display: table-cell;
+    	vertical-align: middle;
 	}
 
 	input {
