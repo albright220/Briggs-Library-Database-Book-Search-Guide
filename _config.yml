@@ -1,9 +1,9 @@
 # Site settings
 lang: en
-title: Briggs Library Database Book Search Guide
+title: Briggs Library Book Search Guide
 description: >
   The guide website for Briggs Library database searching
-baseurl: "/Briggs-Library-Database-Book-Search-Guide"
+baseurl: "/briggs-book-search-guide"
 url: "https://albright220.github.io"
 permalink: pretty
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Book Search Guide: Pounce/Pounce+ and UofM Campuses Databases'
+title: 'Book Search Guide: Pounce and Morris Catalog'
 toc: true
 toc_title: Contents
 ---
@@ -11,8 +11,8 @@ toc_title: Contents
 }
 </style>
 
-# Searching for Materials in Pounce and in Cross-Campus Databases
-This guide will first layout the key points of using an advanced search to find materials within [our database](https://primo.lib.umn.edu/primo-explore/search?vid=MORRIS&lang=en_US&sortby=rank&tab=default_tab), and then provide a template of sample
+# Searching for Materials in Pounce
+This guide will first layout the key points of using a basic search and an advanced search to find materials within [our database](https://primo.lib.umn.edu/primo-explore/search?vid=MORRIS&lang=en_US&sortby=rank&tab=default_tab), and then provide a template of sample
 questions and how you would translate them into search conditions.  
 
 ## Advanced Search: Overview of Search Filters  
