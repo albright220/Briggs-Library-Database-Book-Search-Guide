@@ -10,13 +10,18 @@ permalink: pretty
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
 
+# Plugins, plugin setup, exclusions
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
